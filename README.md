@@ -1,4 +1,4 @@
-<h1> Chat Application</h1>
+<h1>Real-Time Chat Application</h1>
 
 Welcome to the Real-Time Chat Application, a MERN stack project that leverages MongoDB, React, Express, Node, and Socket.IO for seamless, real-time, bidirectional communication between users. This feature-rich chat application allows users to send messages, see online and offline statuses, and engage in conversations effortlessly. User authentication is implemented with tokens and cookies, ensuring a secure and personalized experience.
 <h2>Features</h2>
