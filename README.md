@@ -21,7 +21,7 @@ Welcome to the Real-Time Chat Application, a MERN stack project that leverages M
 
 bash
 
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/sanaahsam/Chat-Application.git
 cd chat-app
 
 Install Dependencies
